@@ -35,3 +35,5 @@ Key Insights -
 • November recorded peak sales.
 • High discounts negatively impacted profit margins.
 
+<img width="1341" height="601" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/c371c7e7-76fb-434e-b305-24f706c1b74e" />
+
